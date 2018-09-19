@@ -8,7 +8,7 @@ We're starting with TAZ6 and then we'll see.
 
 ⚠️ __Warning__ ⚠️
 
-This is a work in progress. Use anything at your own peril and watch for that magical 'Releases' section to become populated...
+> This is a work in progress. Use anything at your own peril and watch for that magical 'Releases' section to become populated...
 
 ## Licensing
 
